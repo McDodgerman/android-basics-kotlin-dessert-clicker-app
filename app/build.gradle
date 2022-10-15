@@ -23,7 +23,7 @@ plugins {
 android {
     compileSdkVersion 31
     defaultConfig {
-        applicationId "com.example.android.dessertclicker"
+        applicationId "com.stargrazer.android.dessertclicker"
         minSdkVersion 19
         targetSdkVersion 31
         versionCode 1
